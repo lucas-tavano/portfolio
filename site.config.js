@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `portfolio`,
+      name: `My Space`,
       href: "https://github.com/lucas-tavano/portfolio",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Lucas-Tavano",
+    title: "Lucas Tavano",
     description: "welcome to my space!",
   },
 
