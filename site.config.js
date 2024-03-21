@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "My Page!",
-    description: "welcome to my page!",
+    title: "Lucas-Tavano",
+    description: "welcome to my space!",
   },
 
   // CONFIG configration (required)
